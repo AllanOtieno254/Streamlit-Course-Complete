@@ -1,0 +1,30 @@
+Streamlit-Course-Complete/
+├── LICENSE
+├── README.md                # Comprehensive documentation for the course
+├── requirements.txt         # All necessary dependencies
+├── app.py                   # Main entry point for the course application
+├── pages/                   # Individual modules for each course topic
+│   ├── 1_Overview.py
+│   ├── 2_Installation_Setup.py
+│   ├── 3_st_write_and_Magic.py
+│   ├── 4_Streamlit_Data_Flow.py
+│   ├── 5_Text_Elements.py
+│   ├── 6_Images.py
+│   ├── 7_Data_Elements.py
+│   ├── 8_Chart_Elements.py
+│   ├── 9_Form_Elements.py
+│   ├── 10_Simple_Form_Example.py
+│   ├── 11_Advanced_Form_Example.py
+│   ├── 12_Session_State.py
+│   ├── 13_Callbacks.py
+│   ├── 14_Layouts.py
+│   ├── 15_Advanced_Widget_Concepts.py
+│   ├── 16_Caching.py
+│   ├── 17_st_rerun.py
+│   ├── 18_Fragments.py
+│   ├── 19_Multi_Pages_App.py
+│   └── 20_More_Advanced_Pages.py
+└── assets/
+    ├── images/              # Screenshots and images used in the course
+    ├── videos/              # Course video snippets and demos
+    └── docs/                # Additional documentation and guides
